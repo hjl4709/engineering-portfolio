@@ -1,0 +1,4 @@
+support_thickness_mm,applied_load_N,max_displacement_mm,max_von_mises_stress_MPa,mass_g
+2,0.5,0.020,3.227,35
+3,0.5,0.007,1.711,51
+4,0.5,0.004,1.096,68

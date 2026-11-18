@@ -1,0 +1,4 @@
+model,confidence_threshold,test_images,annotated_objects,true_positives,false_negatives,false_positives,f1_percent
+YOLO11s,0.67,90,194,183,11,7,95.31
+YOLO11s+CNN,0.67,90,194,185,9,5,96.35
+YOLO11s+CNN,0.63,90,194,187,7,6,96.64

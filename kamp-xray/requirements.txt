@@ -1,0 +1,12 @@
+notebook
+ipykernel
+numpy
+pandas
+Pillow
+opencv-python
+torch
+torchvision
+PyYAML
+matplotlib
+scikit-learn
+ultralytics
